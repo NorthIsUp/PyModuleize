@@ -1,0 +1,18 @@
+[
+  {
+    "caption": "-",
+    "id": "py-moduleize-start-separator"
+  },
+  {
+    "caption": "PyModuleize…",
+    "id": "pymoduleize-make-module",
+    "command": "py_moduleize_make_module",
+    "args": {
+      "paths": []
+    }
+  },
+  {
+    "caption": "-",
+    "id": "py-moduleize-end-separator"
+  }
+]
